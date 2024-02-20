@@ -1,0 +1,4 @@
+# Replace this with your token
+TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY2wiOiIiLCJjb3VudHJ5IjoiU0UiLCJleHAiOjE3MTA3MDE3OTksImlhdCI6MTcwODA3MjA1MywiaXNzIjoicG9udG9zLWh1YiIsIm9yZ2FuaXNhdGlvbl90eXBlIjoidW5pdmVyc2l0eSIsInB1cnBvc2UiOiJyZXNlYXJjaCIsInJvbGUiOiJ3ZWJfdXNlciIsInN1YiI6Il9fdG9rZW5fXyJ9.smOxkcJFQDNeYkXV6iIJ9VkvDBTpeQi02bF914OQSF8"
+# PONTOS base API URL
+BASE_URL = "https://pontos.ri.se/api"
